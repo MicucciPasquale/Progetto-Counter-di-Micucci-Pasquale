@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #faf89d;
+}
+
+
+h1 {
+    color: #045301;
+    font-size: 40px;
+}
+
+
+p {
+    font-size: 40px;
+}
+
+
+#counter {
+    font-weight: bold;
+    font-size: 80px;
+    color: #045301;
+}
+
+
+button {
+    padding: 10px 20px;
+    font-size: 70px;
+    background-color: #89f83f;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
+button:hover {
+    background-color: #045301;
+}
+
+
+#counter-image {
+    width: 40px; 
+    margin-right: 10px; 
+    vertical-align: middle; 
+}
+
